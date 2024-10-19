@@ -1,4 +1,5 @@
 <?php
+    require("./koneksi.php");
     require("partials/header/header.php");
     require("partials/navbar/navbar.php");
     require("partials/rak/rak.php");
